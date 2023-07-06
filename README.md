@@ -31,7 +31,8 @@ To run the code examples, you need to have the following software installed on y
 
 1. Clone the repository
 2. Install the required dependencies:
+
 pip install selenium
-3. Open a terminal or command prompt.
-4. Navigate to the repository directory.
-5. Run the Python scripts to execute the examples.
+4. Open a terminal or command prompt.
+5. Navigate to the repository directory.
+6. Run the Python scripts to execute the examples.
